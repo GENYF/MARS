@@ -2,9 +2,9 @@
 
 //서버에 전송하기 위한 초기설정
 const char* server = "api.thingspeak.com";
-String apiKey = "LF66N9URKIGFW9QT";
-const char* MY_SSID = "Four season study cafe 1";//와이파이 이름
-const char* MY_PWD = "fd9fgf3781";//와이파이 비밀번호
+String apiKey = "API KEY";
+const char* MY_SSID = "WIFI NAME";//와이파이 이름
+const char* MY_PWD = "WIFI PIN";//와이파이 비밀번호
 
 const int trigPin = D5;
 const int echoPin = D6;
